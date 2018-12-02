@@ -1,6 +1,6 @@
 
 
-module Day1 where
+module Day01 where
 
 import Data.List
 import qualified Data.Set as Set
